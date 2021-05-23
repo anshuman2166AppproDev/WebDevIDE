@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+input[type="button"] {
+    background: #2196f3;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Josefin Sans'
+    
+}
